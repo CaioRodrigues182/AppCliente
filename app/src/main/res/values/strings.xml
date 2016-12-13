@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clientes</string>
+    <string name="title_activity_navegacao">CRUD Clientes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="sobre">Sobre</string>
+    <string name="todos">Todos clientes</string>
+    <string name="novo">Criar novo clientes</string>
+    <string name="title_activity_criar_clientes">criarClientes</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_listatodos">listatodos</string>
+    <string name="title_activity_listatodos2">listatodos2</string>
+</resources>
